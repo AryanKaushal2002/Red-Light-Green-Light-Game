@@ -14,7 +14,7 @@ If the light is red and you move, *shoot* immediate death.
 
 The game takes input through your webcam or external camera device to locate the player and check if they have moved or not when the light is red. Movement during green light is allowed but the game ends if the doll detects the player moving or making sudden body movements when the light is red. 
 
-Note : If your laptop/PC doesn't have an in-built webcam, certain changes need to done in the code.
+**Note** : If your laptop/PC doesn't have an in-built webcam, certain changes need to done in the code.
        The code at line 28 in game.py will have to be changed from 
        
        cap = cv2.VideoCapture(0)
