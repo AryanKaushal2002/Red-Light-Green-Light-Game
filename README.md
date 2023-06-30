@@ -58,4 +58,4 @@ To play the Red Light - Green Light game, follow these steps:
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-Feel free to customize the README file further by adding additional sections, acknowledgments, or any other relevant information about your project.
+
