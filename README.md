@@ -35,7 +35,7 @@ To play the Red Light - Green Light game, follow these steps:
 
 1. Clone the repository:
     ```
-    git clone https://github.com/AryanKaushal2002/Red-Light-Green-Light-Game.git
+    gh repo clone AryanKaushal2002/Red-Light-Green-Light-Game
     ```
 
 2. Navigate to the project directory:
