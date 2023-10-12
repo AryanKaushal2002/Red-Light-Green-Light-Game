@@ -35,7 +35,7 @@ To play the Red Light - Green Light game, follow these steps:
 
 1. Clone the repository:
     ```
-    gh repo clone AryanKaushal2002/Red-Light-Green-Light-Game
+    git clone https://github.com/AryanKaushal2002/Squid-Game.git
     ```
 
 2. Navigate to the project directory:
