@@ -1,4 +1,4 @@
-# Red Light - Green Light Game
+# Squid Game
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 
